@@ -2,6 +2,9 @@
 
 **De patria a patria** es una galería de arte web interactiva que presenta las historias y fotografías de profesionales de tecnología de diferentes rincones del mundo que forman parte de la comunidad TripleTen. El proyecto celebra la diversidad cultural y las experiencias únicas de personas que han viajado desde sus lugares de origen hasta formar parte de esta comunidad tecnológica global.
 
+---
+## [TripleTen Art Gallery ☝️](https://carlosmgs111.github.io/web_project_homeland/)
+
 ![screenrecord](https://github.com/user-attachments/assets/28f09ba3-228a-4fe1-8651-e348311cda16)
 
 ### Funcionalidades principales:
