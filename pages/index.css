@@ -3,5 +3,9 @@
 @import url("../blocks/page.css");
 @import url("../blocks/logo.css");
 @import url("../blocks/header.css");
-@import url("../blocks/content.css");
+@import url("../blocks/introduce.css");
+@import url("../blocks/photo-grid.css");
+@import url("../blocks/places.css");
+@import url("../blocks/place-header.css");
+@import url("../blocks/place-resume.css");
 @import url("../blocks/footer.css");

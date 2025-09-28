@@ -1,0 +1,76 @@
+.introduce {
+  max-width: 984px;
+  margin: 0 auto 118px auto;
+  padding: 0 24px 0 24px;
+}
+.introduce__title {
+  max-width: 830px;
+  box-sizing: border-box;
+  margin: 0;
+  margin-bottom: 40px;
+  font-weight: 900;
+  font-size: 54px;
+  line-height: 58px;
+}
+.introduce__quote {
+  max-width: 738px;
+  margin: 0;
+  margin-bottom: 10px;
+  font-size: 24px;
+  line-height: 34px;
+}
+.introduce__author {
+  margin: 0;
+  margin-bottom: 32px;
+  font-size: 24px;
+  line-height: 34px;
+  text-align: right;
+  max-width: 732px;
+}
+.introduce__content {
+  max-width: 722px;
+  margin: 0;
+  font-size: 16px;
+  line-height: 163%;
+}
+
+@media screen and (max-width: 768px) {
+  .introduce {
+    max-width: 720px;
+    margin: 0 auto 88px auto;
+    padding: 0 16px 0 16px;
+  }
+  .introduce__title {
+    font-size: 45px;
+    line-height: 49px;
+    margin-bottom: 50px;
+  }
+  .introduce__quote {
+    font-size: 24px;
+    line-height: 34px;
+    margin-bottom: 0;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .introduce {
+    max-width: 288px;
+    margin: 0 auto 38px auto;
+    padding: 0 16px 0 16px;
+  }
+  .introduce__title {
+    font-size: 32px;
+    line-height: 35px;
+    margin-bottom: 40px;
+  }
+  .introduce__quote {
+    font-size: 24px;
+    line-height: 30px;
+    margin-bottom: 10px;
+  }
+  .introduce__author {
+    font-size: 24px;
+    line-height: 34px;
+    margin-bottom: 32px;
+  }
+}
